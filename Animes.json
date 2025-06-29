@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "episodio": "Ep. 8",
+    "imagen": "https://example.com/imagenes/kimetsu-yaiba.jpg",
+    "enlace": "https://inkaflixapps.blogspot.com/p/kimetsu-no-yaiba.html"
+  },
+  {
+    "titulo": "Boku no Hero Academia Season 7",
+    "episodio": "Ep. 9",
+    "imagen": "https://example.com/imagenes/hero-academia.jpg",
+    "enlace": "https://inkaflixapps.blogspot.com/p/boku-no-hero.html"
+  },
+  {
+    "titulo": "One Piece",
+    "episodio": "Ep. 1110",
+    "imagen": "https://example.com/imagenes/one-piece.jpg",
+    "enlace": "https://inkaflixapps.blogspot.com/p/one-piece.html"
+  },
+  {
+    "titulo": "Tensei Shitara Slime Datta Ken 3",
+    "episodio": "Ep. 13",
+    "imagen": "https://example.com/imagenes/tensei-slime.jpg",
+    "enlace": "https://inkaflixapps.blogspot.com/p/slime-tensei.html"
+  },
+  {
+    "titulo": "Kimi no Koto nado Zettai ni",
+    "episodio": "Ep. 3",
+    "imagen": "https://example.com/imagenes/kimi-no-koto.jpg",
+    "enlace": "https://inkaflixapps.blogspot.com/p/kimi-no-koto.html"
+  }
+]
