@@ -1,0 +1,24 @@
+{
+  "lunes": [
+    { "titulo": "My hero academia vigilantes", "imagen": "https://image.tmdb.org/t/p/original/e95EQccHiRPzP3oUhjKXvQF143Z.jpg" },
+    { "titulo": "Boruto", "imagen": "https://i.imgur.com/gL0WnYH.jpg" }
+  ],
+  "martes": [
+    { "titulo": "Jujutsu Kaisen", "imagen": "https://i.imgur.com/6CXtxat.jpg" }
+  ],
+  "miércoles": [
+    { "titulo": "Bleach", "imagen": "https://i.imgur.com/ECEydvC.jpg" }
+  ],
+  "jueves": [
+    { "titulo": "Dr. Stone", "imagen": "https://i.imgur.com/oOUgKzL.jpg" }
+  ],
+  "viernes": [
+    { "titulo": "Shingeki no Kyojin", "imagen": "https://i.imgur.com/mPRTDiM.jpg" }
+  ],
+  "sábado": [
+    { "titulo": "Demon Slayer", "imagen": "https://i.imgur.com/kUTINPH.jpg" }
+  ],
+  "domingo": [
+    { "titulo": "Tokyo Revengers", "imagen": "https://i.imgur.com/MnFjXmv.jpg" }
+  ]
+}
