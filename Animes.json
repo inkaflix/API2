@@ -1,32 +1,194 @@
 [
   {
-    "titulo": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "episodio": "Ep. 8",
-    "imagen": "https://image.tmdb.org/t/p/w300/kRtR5jUcKHeTM0JzaF9SbwI5FD.jpg",
-    "enlace": "https://inkaflixapps.blogspot.com/p/kimetsu-no-yaiba.html"
-  },
-  {
-    "titulo": "Boku no Hero Academia Season 7",
-    "episodio": "Ep. 9",
-    "imagen": "https://image.tmdb.org/t/p/w300/cR5KiAdVeZLG4nDUiCyqfvGzZ3f.jpg",
-    "enlace": "https://inkaflixapps.blogspot.com/p/boku-no-hero.html"
-  },
-  {
-    "titulo": "One Piece",
-    "episodio": "Ep. 1110",
-    "imagen": "https://image.tmdb.org/t/p/w300/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
-    "enlace": "https://image.tmdb.org/t/p/w300/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg"
-  },
-  {
-    "titulo": "Tensei Shitara Slime Datta Ken 3",
-    "episodio": "Ep. 13",
-    "imagen": "https://image.tmdb.org/t/p/w300/mN5yLKKW89XomkKE9hFEjsaww3s.jpg",
-    "enlace": "https://inkaflixapps.blogspot.com/p/slime-tensei.html"
-  },
-  {
-    "titulo": "Kimi no Koto nado Zettai ni",
-    "episodio": "Ep. 3",
-    "imagen": "https://image.tmdb.org/t/p/w300/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
-    "enlace": "https://inkaflixapps.blogspot.com/p/kimi-no-koto.html"
-  }
+  "titulo": "Koujo Denka no Kateikyoushi",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/2v5Pu4nsk9KyHbk8KrErrnEpJPh.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/koujo-denka-no-kateikyoushi.html"
+},
+{
+  "titulo": "Lord of Mysteries",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/cR5KiAdVeZLG4nDUiCyqfvGzZ3f.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/guimi-zhi-zhu-xiaochou-pian-lord-of.html"
+},
+{
+  "titulo": "Takopi's Original Sin",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/takopii-no-genza.html"
+},
+{
+  "titulo": "Utena, la chica revolucionaria",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/riqymWBPqKmWpIvS3lVDYjZhwQ5.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/utena-la-chica-revolucionaria.html"
+},
+{
+  "titulo": "Please Put Them On, Takamine-san",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/mN5yLKKW89XomkKE9hFEjsaww3s.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/please-put-them-on-takamine-san.html"
+},
+{
+  "titulo": "Devil May Cry",
+  "episodio": "9",
+  "imagen": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/devil-may-cry-latino.html"
+},
+{
+  "titulo": "El misterio se resuelve después de la cena",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/ufYkiouasHBOIyee9VJ1iNpSPZE.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/detective-de-la-mesa-latino.html"
+},
+{
+  "titulo": "Kaiju No. 8",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/bJxGs0w5RAhaX4fIUQu511rvm0S.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/kaijuu-8-latino.html"
+},
+{
+  "titulo": "My Dress-Up Darling",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/sono-bisque-doll-wa-koi-wo-suru-audio.html"
+},
+{
+  "titulo": "Baki",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/taarM0OCOQW1heyUaOttIwKbclu.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/baki-s2.html"
+},
+{
+  "titulo": "Baki",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/rXbmuaZXH6oR5ni6m7AN6LnGFgg.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/baki-s1.html"
+},
+{
+  "titulo": "Dandadan",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/bOPmmOXj33bxVW5DoWabkCLn6vE.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/dandadancr-latino.html"
+},
+{
+  "titulo": "Catch Me at the Ballpark",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/7yjUOGangKSn6Nj7fQ3kTCGOHpQ.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/ballpark-de-tsukamaete-sub.html"
+},
+{
+  "titulo": "My Hero Academia: Vigilantes",
+  "episodio": "24",
+  "imagen": "https://image.tmdb.org/t/p/w500/iv0cXt6uJGlTryWZNQMGyum4Pme.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/my-hero-academia-vigilantes-latinojson.html"
+},
+{
+  "titulo": "Akane Iro ni Somaru Saka",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/ipsD4lpez7AyJmiUwPbjFuR8sHd.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/akaneiro-ni-somaru-saka-latino.html"
+},
+{
+  "titulo": "Fire Force",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/j8B5ewOECigAYxqba8qNrI1W6hx.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/enen-no-shouboutai-s3-latino.html"
+},
+{
+  "titulo": "Fire Force",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/h5WKry3r5OpVfSWI394nVL8eZP3.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/enen-no-shouboutai-s2-latino.html"
+},
+{
+  "titulo": "Fire Force",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/ubuL0Xm5xuNjhPR3l9Gd99RCJ5Z.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/enen-no-shouboutai-s2-latino.html"
+},
+{
+  "titulo": "Bye Bye Earth",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/iuo2jor1Hya3bT1imNxEScgoh5o.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/bye-bye-earth-latino.html"
+},
+{
+  "titulo": "Can a Boy-Girl Friendship Survive?",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/nAooVCW6PIfISHegaIwtQOZLBOC.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/danjo-no-yuujou-wa-seiritsu-suru-sub.html"
+},
+{
+  "titulo": "Los diarios de la boticaria",
+  "episodio": "50",
+  "imagen": "https://image.tmdb.org/t/p/w500/7m3Mv8xaIRmoQFdzVHY9e7zqk8q.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/los-diarios-de-la-boticaria-s2-latino.html"
+},
+{
+  "titulo": "Los diarios de la boticaria",
+  "episodio": "24",
+  "imagen": "https://image.tmdb.org/t/p/w500/pDtT3clyMU4xGUy8Tkvwc3pQprJ.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/los-diarios-de-la-boticaria-s1-latino.html"
+},
+{
+  "titulo": "The Shiunji Family Children",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/tvhXMejlXyOUo24we09pXSgKw5j.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/the-shiunji-family-children-latino.html"
+},
+{
+  "titulo": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/1VtaTXsHTRfh8m49OVJfMb4JVuh.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/our-last-crusade-or-rise-of-new-world_5.html"
+},
+{
+  "titulo": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/wCL3MkW9QNnBKpeFC9O3i0mpiIb.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/our-last-crusade-or-rise-of-new-world.html"
+},
+{
+  "titulo": "Wind Breaker",
+  "episodio": "32",
+  "imagen": "https://image.tmdb.org/t/p/w500/3kTFL3PAeTyS8gGZAh0iYG6NNjt.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/wind-breaker-s1-latino.html"
+},
+{
+  "titulo": "The Brilliant Healer's New Life in the Shadows",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/gSgYTi6DxmmZTIHklS8h8alDluo.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/the-brilliant-healers-new-life-in.html"
+},
+{
+  "titulo": "Mobile Suit Gundam GQuuuuuuX",
+  "episodio": "12",
+  "imagen": "https://image.tmdb.org/t/p/w500/jb5d4vqHmKSQh9rB2T394e3z5To.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/mobile-suit-gundam-gquuuuuux-latino.html"
+},
+{
+  "titulo": "Toradora!",
+  "episodio": "23",
+  "imagen": "https://image.tmdb.org/t/p/w500/gUE1zdXPkEBdEUtmJ2rkcGON41s.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/toradora.html"
+},
+{
+  "titulo": "Aharen-san wa Hakarenai",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/a0ZZeE79Z24uDeZkL8M93DerDgF.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/anaha-san-tp2.html"
+},
+{
+  "titulo": "Aharen-san wa Hakarenai",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/a0ZZeE79Z24uDeZkL8M93DerDgF.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/anaha-san-tp1.html"
+},
+{
+  "titulo": "School Days",
+  "episodio": "13",
+  "imagen": "https://image.tmdb.org/t/p/w500/fnFk26yzAVNFkSTiW9ZBTxIhEec.jpg",
+  "enlace": "https://playerinka.blogspot.com/p/school-days.html"
+}
 ]
