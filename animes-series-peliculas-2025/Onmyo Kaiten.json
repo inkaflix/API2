@@ -1,0 +1,33 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/fGrAejjSIi8VNEEvtuepyHjz83o.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Onmyo Kaiten Re:Birth Verse",
+    "description": "Narihira Takeru es un delincuente que a menudo piensa en Tsukimiya, la chica que aparece en sus sueños. Tras un accidente inesperado, Takeru se encuentra en un universo paralelo, en el mundo donde vive Tsukimiya. Cuando Takeru y Tsukimiya son asesinados por un monstruo, despierta de nuevo y se da cuenta de que ha viajado a través del tiempo. ¡Ahora, Takeru debe entrenar con Abe Seimei para luchar por la vida de Tsukimiya!",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Mi fam"
+    ],
+    "rating": "PG-15",
+    "tags": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Sub🇯🇵🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-07-02",
+        "url": "https://rdflix.online/#bgz1qr"
+      }
+    ]
+  }
+}
