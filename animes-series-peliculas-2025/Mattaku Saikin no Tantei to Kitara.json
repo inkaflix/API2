@@ -1,0 +1,32 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/ctKpoDQ3xlwoQx7ID0f7rFHufTC.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Mattaku Saikin no Tantei to Kitara",
+    "description": "Nagumo Keiichiro, antiguo detective legendario, atraviesa ahora la madurez confundido por los smartphones y la vida moderna. Su decadencia se ve perturbada cuando Mashiro, una atrevida chica de preparatoria, irrumpe en su despacho exigiendo convertirse en su aprendiz. Aunque él está oxidado y anticuado, el infatigable entusiasmo de Mashiro le arrastra de nuevo al trabajo de detective. Ahora la pareja de detectives se dedica a resolver casos.",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Js"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación"
+    ],
+    "languages": [
+      "Sub🇯🇵",
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-07-01",
+        "url": "https://rdflix.online/#isb8as"
+      }
+    ]
+  }
+}
