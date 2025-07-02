@@ -1,0 +1,38 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/vdMoQCiHQNtrbjp7SmFGG2i76g0.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Jigoku Sensei Nube",
+    "description": "En la Escuela Primaria Dōmori, fenómenos extraños amenazan a los alumnos, y Nube, su maestro, usa la Mano del Demonio y otras habilidades espirituales para protegerlos. Cada episodio trae un nuevo desafío, enseñando valiosas lecciones, con algunos arcos más largos y enemigos recurrentes.",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Mi fo"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Sub🇲🇽🇯🇵"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-07-02",
+        "url": "https://rdflix.online/#8trjdp"
+      },
+      {
+        "numero": 2,
+        "fecha": "2025-07-02",
+        "url": "https://rdflix.online/#c5n81o"
+      }
+    ]
+  }
+}
