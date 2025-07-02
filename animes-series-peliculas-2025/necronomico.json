@@ -1,1 +1,34 @@
-hhtt
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/wNJkW73CmYg4IYf0jWpd1vQT4vr.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "necronomico no",
+    "description": "Sin descripción",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Nis"
+    ],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Sub🇯🇵",
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-07-01",
+        "url": "https://rdflix.online/#q3omlu"
+      }
+    ]
+  }
+}
