@@ -1,0 +1,34 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/UErKAycnzSAJqGvJpSy0tw5auS.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+    "description": "Alicia, elegida como una de los trece héroes para derrotar al Rey Demonio Clevatess, emprende su misión con una espada legendaria. Sin embargo, su imprudencia provoca una crisis que pone en peligro a la humanidad. Ahora, la última esperanza del mundo recae en un bebé criado por el propio Rey Demonio.",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [
+      "Sj"
+    ],
+    "rating": "PG-15",
+    "tags": [
+      "Animación",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy",
+      "Drama"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-07-02",
+        "url": "https://rdflix.online/#kdszad"
+      }
+    ]
+  }
+}
