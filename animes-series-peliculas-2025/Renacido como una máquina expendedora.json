@@ -1,0 +1,87 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/rJKANgQCrIPJV4a9BXwdw7d3BZr.jpg",
+    "type": "Serie",
+    "year": "2023",
+    "title": "Renacido como una máquina expendedora, ahora deambulo por la mazmorra",
+    "description": "Un fanático de las máquinas expendedoras encuentra su muerte cuando, irónicamente, es aplastado por una máquina expendedora. Para su desgracia, se reencarna en una máquina expendedora en otro mundo. Tras resurgir en un bosque habitado por hombres rana y otros monstruos, y con solo dos productos, la máquina expendedora Boxxo necesita monedas para mantenerse abastecida, alimentada y mejorada con nuevas habilidades. Por suerte, el autómata es rescatado por una joven que rápidamente se da cuenta de que es sensible y lo lleva a un asentamiento humano. A partir de entonces, la extraña pieza de maquinaria se va haciendo un hueco en el mundo que le rodea, ganando numerosos aliados por el camino a pesar de ser totalmente incapaz de hablar o moverse y de comunicarse únicamente mediante la reproducción de frases pregrabadas de la máquina expendedora.",
+    "score": "6.8",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Lat🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2023-07-05",
+        "url": "https://rdflix.online/#6hbtpq"
+      },
+      {
+        "numero": 2,
+        "fecha": "2023-07-12",
+        "url": "https://rdflix.online/#x618nc"
+      },
+      {
+        "numero": 3,
+        "fecha": "2023-07-19",
+        "url": "https://rdflix.online/#taqlqx"
+      },
+      {
+        "numero": 4,
+        "fecha": "2023-07-26",
+        "url": "https://rdflix.online/#n8uiw5"
+      },
+      {
+        "numero": 5,
+        "fecha": "2023-08-02",
+        "url": "https://rdflix.online/#luefy5"
+      },
+      {
+        "numero": 6,
+        "fecha": "2023-08-09",
+        "url": "https://rdflix.online/#dj9gdi"
+      },
+      {
+        "numero": 7,
+        "fecha": "2023-08-16",
+        "url": "https://rdflix.online/#5w8uie"
+      },
+      {
+        "numero": 8,
+        "fecha": "2023-08-23",
+        "url": "https://rdflix.online/#epmwbl"
+      },
+      {
+        "numero": 9,
+        "fecha": "2023-08-30",
+        "url": "https://rdflix.online/#luebto"
+      },
+      {
+        "numero": 10,
+        "fecha": "2023-09-06",
+        "url": "https://rdflix.online/#x61tva"
+      },
+      {
+        "numero": 11,
+        "fecha": "2023-09-13",
+        "url": "https://rdflix.online/#n8usba"
+      },
+      {
+        "numero": 12,
+        "fecha": "2023-09-20",
+        "url": "Https aún falta meterlo"
+      }
+    ]
+  }
+}
