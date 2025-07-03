@@ -1,0 +1,31 @@
+{
+  "anime": {
+    "image": "https://image.tmdb.org/t/p/original/2kvwJ3ZVvMwcyj3XIZA7EHYCKma.jpg",
+    "type": "Serie",
+    "year": "2025",
+    "title": "Tsuihousha Shokudou e Youkoso!",
+    "description": "Tras ser expulsado del renombrado gremio Alas de Plata, Dennis, un maestro de la cocina, decide seguir su sueño y abrir un restaurante en el campo. En su camino, libera a Atrielle, una noble reducida a la esclavitud, quien se convierte en su fiel compañera. Pronto, su local se convierte en refugio de personajes inusuales: una caballero desterrada, una maga arrogante y una sage agotada. Con sus habilidades y amor por la cocina, Dennis no solo creará platos inolvidables, sino también un lugar capaz de tocar el corazón de quienes lo visitan.",
+    "score": "N/A",
+    "status": "En emisión",
+    "views": 0,
+    "alternative_titles": [],
+    "rating": "PG-13",
+    "tags": [
+      "Animación",
+      "Comedia",
+      "Sci-Fi & Fantasy"
+    ],
+    "languages": [
+      "Sub🇯🇵🇲🇽"
+    ]
+  },
+  "temporadas": {
+    "1": [
+      {
+        "numero": 1,
+        "fecha": "2025-07-03",
+        "url": "https://rdflix.online/#n8rbn3"
+      }
+    ]
+  }
+}
