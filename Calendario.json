@@ -2,55 +2,34 @@
   "lunes": [
     {
       "titulo": "Grand Blue T2 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/5TrXekyCEbfkN3hXietdN1fL13P.jpg"
+      "imagen": "https://image.tmdb.org/t/p/w300/1WP2MrTIXJ8NI5tvqBk4ZD4ju9O.jpg"
     },
     {
       "titulo": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) T1 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/gj5oUGMFPMJB304Z9jQAoTTCREJ.jpg"
+      "imagen": "https://image.tmdb.org/t/p/w300/7yvSLskVFM5mZhQ53Dx9fnLybKa.jpg"
     },
     {
       "titulo": "Food Court de, Mata Ashita. T1 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/xk9e3KVSuxPLj66BjYZxuqAqX8I.jpg"
+      "imagen": "https://image.tmdb.org/t/p/w300/ftbclK56IBYCoaMASrcMi6c31GI.jpg"
+    },
+    {
+      "titulo": "Binan Koukou Chikyuu Bouei-bu Love! T1 (Sub)",
+      "imagen": "https://image.tmdb.org/t/p/w300/9F3VNRHeHAz4TR6jIFER339UveS.jpg"
+    },
+    {
+      "titulo": "Summer Pockets T1 (Sub)",
+      "imagen": "https://image.tmdb.org/t/p/w300/8WALipI4LbRa3POKJOfGPLrVemK.jpg"
     },
     {
       "titulo": "Toradora! T1 (Castellano)",
-      "imagen": "https://image.tmdb.org/t/p/w300/mjfimsCv6XQFoqQo1C7Toc3lMCF.jpg"
+      "imagen": "https://image.tmdb.org/t/p/w300/gUE1zdXPkEBdEUtmJ2rkcGON41s.jpg"
+    },
+    {
+      "titulo": "Aharen-san wa Hakarenai T2 (Latino)",
+      "imagen": "https://image.tmdb.org/t/p/w300/4bsaN72UeGcoe73Mf6DfTmenJvs.jpg"
     }
   ],
-  "martes": [
-    {
-      "titulo": "Rent-a-Girlfriend T4 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/kZXZZNCV6LvFTxfAA9HBwCwKZEz.jpg"
-    },
-    {
-      "titulo": "Necronomico and the Cosmic Horror Show T1 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/443pa7TaKbBM5VadgnAy4WHNZd7.jpg"
-    },
-    {
-      "titulo": "Mattaku Saikin no Tantei to Kitara T1 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/nsMR1PGp82L5HUaaG1zmO3TdKSq.jpg"
-    },
-    {
-      "titulo": "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga shite T1 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/tzNTUNhp97URlfiRAar9AjCNEUV.jpg"
-    },
-    {
-      "titulo": "Una pareja de cucos T2 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/rM44B7aike8mV4eJaE6ekKrCnQS.jpg"
-    },
-    {
-      "titulo": "Turkey! Time to Strike T1 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/1mgfbpE6WUkhBQkmXSBqrD1vyEP.jpg"
-    },
-    {
-      "titulo": "The Shiunji Family Children T1 (Sub)",
-      "imagen": "https://image.tmdb.org/t/p/w300/iSSYooLNjjNvbGSqAxnL8LgtSMP.jpg"
-    },
-    {
-      "titulo": "Utena, la chica revolucionaria T1 (Castellano)",
-      "imagen": "https://image.tmdb.org/t/p/w300/ltSZ8OiMM7kLRnY3HbpQsqHgcrK.jpg"
-    }
-  ],
+  "martes": [],
   "miércoles": [],
   "jueves": [],
   "viernes": [],
