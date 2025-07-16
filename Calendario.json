@@ -29,7 +29,20 @@
       "imagen": "https://image.tmdb.org/t/p/w300/4bsaN72UeGcoe73Mf6DfTmenJvs.jpg"
     }
   ],
-  "martes": [],
+  "martes": [
+    {
+      "titulo": "Necronomico and the Cosmic Horror Show T1 (Japonés)",
+      "imagen": "https://image.tmdb.org/t/p/w300/HhGacjmh5SPPYPRR3OvieGFaD3.jpg"
+    },
+    {
+      "titulo": "Detectives These Days Are Crazy! T1 (Japonés)",
+      "imagen": "https://image.tmdb.org/t/p/w300/mKP4VWY38xTi7eRIbOAZoyYXYj4.jpg"
+    },
+    {
+      "titulo": "Turkey! Time to Strike T1 (Japonés)",
+      "imagen": "https://image.tmdb.org/t/p/w300/sM34otxT9zSBcCHpJuRHulDQqLQ.jpg"
+    }
+  ],
   "miércoles": [],
   "jueves": [],
   "viernes": [],
